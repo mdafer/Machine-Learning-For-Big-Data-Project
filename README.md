@@ -1,1 +1,3 @@
-# Machine-Learning-For-Big-Data-Assignment-2
+# Machine Learning For Big Data Project
+# Prof. Stan Matwin
+# Dalhousie University
